@@ -1,2 +1,2 @@
 # mckeon-ben.github.io
-Personal Website for Ben McKeon
+Personal website for Ben McKeon.
