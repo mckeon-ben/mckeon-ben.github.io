@@ -34,7 +34,7 @@ body {
 }
 
 ol, ul {
-	list-style-type: square;
+	list-style: none;
 }
 
 blockquote, q {
@@ -1748,7 +1748,7 @@ input, select, textarea {
 /* List */
 
 	ul {
-		list-style: disc;
+		list-style: square;
 		padding-left: 1em;
 	}
 
