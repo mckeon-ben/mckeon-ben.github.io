@@ -1748,12 +1748,11 @@ input, select, textarea {
 /* List */
 
 	ul {
-		list-style: disc;
+		list-style-type: square;
 		padding-left: 1em;
 	}
 
 		ul li {
-			list-style-type: square;
 			padding-left: 0.5em;
 		}
 
